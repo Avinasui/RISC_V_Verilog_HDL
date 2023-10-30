@@ -1,4 +1,4 @@
-# RISC_V-Verilog-HDL
+# RISC_V-Verilog HDL
 
 The project "RISC-V RV32I RTL Design using Verilog HD" introduces a 
 robust RISC-V processor constructed with careful considerations of 
